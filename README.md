@@ -21,6 +21,6 @@ Kubernetes The Hard Way guides you through bootstrapping a highly available Kube
 * [Deploy Calico - Pod Networking Solution](docs/06-configure-pod-networking.md)
 * [Bootstrapping the Kubernetes Worker Nodes](docs/07-bootstrapping-kubernetes-workers.md)
 * [Smoke Test](docs/08-smoke-test.md)
-* [Optional - MetalLB Loadbalancer](09-optional-metallb-loadbalancer.md)
+* [Optional - MetalLB Loadbalancer](docs/09-optional-metallb-loadbalancer.md)
 * [Optional - Ingress Controller](docs/10-optional-ingress-controller.md)
 
