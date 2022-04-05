@@ -20,6 +20,8 @@ View the generated public key ID at:
 cat .ssh/id_rsa.pub
 ```
 >output
+
+```
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD......8+08b ubuntu@controller-1
 ```
 
